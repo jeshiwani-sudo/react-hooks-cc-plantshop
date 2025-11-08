@@ -41,6 +41,13 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Sisal",
+      "image": "https://www.afw.com/images/thumbs/0130016_155-320609_dd5b5.jpeg",
+      "price": 4.78,
+      "inStock": true,
+      "id": 8
     }
   ]
 }
